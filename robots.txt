@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /thanks/
+Sitemap: https://rdhaliwal.realtor/sitemap.xml
